@@ -8,3 +8,4 @@
 Описание задачи в файле Payment_Profile_Forecast_Task
 
 Свое решение скинуть на analytics@appquantum.com
+Test
